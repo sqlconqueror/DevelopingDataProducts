@@ -1,0 +1,6 @@
+.Rhistory
+.Rproj.user
+.RData
+*.Rproj
+images
+rsconnect
